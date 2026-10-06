@@ -1454,94 +1454,15 @@ a {
 .cid-vxfgFL5cpk .content-head {
   max-width: 800px;
 }
-.cid-vxfi2wi8W4 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background: #edefeb;
-}
-.cid-vxfi2wi8W4 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-vxfi2wi8W4 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 992px) {
-  .cid-vxfi2wi8W4 .row .map-wrapper {
-    margin-top: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-vxfi2wi8W4 .row .map-wrapper {
-    margin-top: 1rem;
-  }
-}
-.cid-vxfi2wi8W4 .google-map {
-  height: 100%;
-  position: relative;
-}
-.cid-vxfi2wi8W4 .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-@media (max-width: 992px) {
-  .cid-vxfi2wi8W4 .google-map iframe {
-    min-height: 350px;
-  }
-}
-.cid-vxfi2wi8W4 .google-map [data-state-details] {
-  color: #6b6763;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-vxfi2wi8W4 .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-vxfi2wi8W4 .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-vxfi2wi8W4 .card-wrapper {
-  padding: 2.25rem;
-  background: #ffffff;
-}
-@media (min-width: 992px) and (max-width: 1200px) {
-  .cid-vxfi2wi8W4 .card-wrapper {
-    padding: 1.5rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-vxfi2wi8W4 .card-wrapper {
-    padding: 2rem 1.5rem;
-  }
-}
-.cid-vxfi2wi8W4 ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-.cid-vxfi2wi8W4 .content-head {
-  max-width: 800px;
-}
-.cid-vxfi4N3FZf {
+.cid-vxfCv6fzKX {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #edefeb;
 }
-.cid-vxfi4N3FZf .mbr-fallback-image.disabled {
+.cid-vxfCv6fzKX .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-vxfi4N3FZf .mbr-fallback-image {
+.cid-vxfCv6fzKX .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1550,21 +1471,34 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-vxfi4N3FZf .item-wrapper {
-  display: flex;
+.cid-vxfCv6fzKX .row {
+  justify-content: center;
+}
+.cid-vxfCv6fzKX .item {
   margin-bottom: 2rem;
-  border-radius: 0 !important;
 }
 @media (max-width: 767px) {
-  .cid-vxfi4N3FZf .item-wrapper {
+  .cid-vxfCv6fzKX .item {
     margin-bottom: 1rem;
   }
 }
-.cid-vxfi4N3FZf .mbr-iconfont {
-  font-size: 3rem;
-  color: #2e481a;
-  padding-right: 2rem;
+.cid-vxfCv6fzKX .item .item-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: #ffffff;
+  padding: 2.25rem;
 }
-.cid-vxfi4N3FZf .content-head {
+@media (min-width: 992px) and (max-width: 1200px) {
+  .cid-vxfCv6fzKX .item .item-wrapper {
+    padding: 2rem 1.5rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-vxfCv6fzKX .item .item-wrapper {
+    padding: 2rem 1.5rem;
+  }
+}
+.cid-vxfCv6fzKX .content-head {
   max-width: 800px;
 }
